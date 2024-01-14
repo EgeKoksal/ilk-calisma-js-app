@@ -1,1 +1,1 @@
-# ilk-calisma-js-app
+bu repo benim ilk repom.
